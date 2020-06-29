@@ -1,0 +1,37 @@
+* {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+div {
+  margin-top: 20px;
+}
+
+.main {
+  background-color: #f1f2f6 !important;
+  margin-bottom: 5em !important;
+  margin-top: 2em !important;
+}
+
+div .top {
+  margin-top: 0px;
+}
+
+.header-sect {
+  padding-bottom: 4em !important;
+}
+
+label {
+  margin: 0px;
+}
+
+p {
+  max-width: 75%;
+}
+
+input {
+  width: 30%;
+}
+
+.postButton {
+  margin-left: 50%;
+}
