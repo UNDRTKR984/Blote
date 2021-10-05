@@ -1,3 +1,5 @@
+This is a full stack app that uses React, MySQL, NodeJS, and Express (MERN). It pulls and posts data to the MySQL database and renders content to the page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
